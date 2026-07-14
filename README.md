@@ -25,13 +25,6 @@ Every sample, decision, anomaly, template, and consent record is persisted to a 
 
 A working reference architecture and harness, not a certified security product. The biometric input is synthetic behind a real-sensor interface; liveness and event-signing are demonstrative. The value, the identity/stress decision split and the governed, auditable data platform, is real and reproducible. See the whitepaper's "Honest Scope" section.
 
-## Enabling the page (GitHub Pages)
-
-1. Push this repository to the `projectblackbox` organization (public).
-2. Settings → Pages → Source: deploy from `main`, root.
-3. The `.nojekyll` file ensures assets are served as-is.
-4. Recommended: enable branch protection on `main`.
-
 ---
 
 © 2026 Project Black Box LLC. All rights reserved. CAGE 11FU4 · ORCID 0009-0006-9717-7161.
