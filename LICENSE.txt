@@ -1,0 +1,10 @@
+Copyright (c) 2026 Project Black Box LLC. All rights reserved.
+
+The contents of this repository, including the product page, the whitepaper,
+diagrams, and all associated text and imagery, are proprietary to Project
+Black Box LLC. They are published for informational purposes only.
+
+No license, express or implied, is granted to reproduce, redistribute,
+modify, or create derivative works from this material without the prior
+written permission of Project Black Box LLC. No source code for the Raven
+Biometrics system is included in or distributed through this repository.
